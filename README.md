@@ -1,5 +1,3 @@
-# Spam-Email-Classifier
-
 # Spam Email Classifier
 
 A machine learning project to classify emails as **Spam** or **Not Spam** using Python and Scikit-learn.
